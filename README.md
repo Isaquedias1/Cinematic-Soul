@@ -15,3 +15,5 @@ A classe Jogador herda essa capacidade de interação, além de possuir os atrib
 A classe Chefe possui os atributos de posição e dano, e o metodo para perseguir o jogador, porque o Chefe seria uma perseguição em que caso o jogador encostasse no chefe, o jogador morreia.
 
 A classe Dialogo coloca textos caso o Jogador encoste na área de colisão de dialogo, tambem aparecerar um botão para caso o jogador queira pular as falas.
+
+Na wiki contém mais informações sobre o projeto.
