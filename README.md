@@ -5,6 +5,10 @@ Membros: Enzo Luciano, Hudson Araújo, Isaque Dias e Pedro Santos
 
 Link do drive como projeto: [DRIVE](https://drive.google.com/drive/folders/1voiZ0sTWlcqO6S2eulumpFdOXeglKAEv?usp=drive_link)
 
+## 🎬 Wiki
+
+- [Cena 1](https://github.com/Isaquedias1/Cinematic-Soul/wiki/Cena-1)
+- [Cena 2](https://github.com/Isaquedias1/Cinematic-Soul/wiki/Cena-2)
 
 ![image](https://github.com/user-attachments/assets/bafdc6b1-0a5f-46ac-88a1-2662f29536cd)
 
