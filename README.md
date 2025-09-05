@@ -3,6 +3,8 @@ Membros: Enzo Luciano, Hudson Araújo, Isaque Dias e Pedro Santos
 
 [Link para efeitos sonoros](https://pixabay.com/sound-effects/search/footsteps/)
 
+[escada de pedra](https://sketchfab.com/3d-models/stone-stair-case-53e52c0fa88a4aa58ad86db4c569c96b)
+
 Link do drive como projeto: [DRIVE](https://drive.google.com/drive/folders/1voiZ0sTWlcqO6S2eulumpFdOXeglKAEv?usp=drive_link)
 
 ## 🎬 Wiki
