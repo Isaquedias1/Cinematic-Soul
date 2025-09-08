@@ -11,6 +11,9 @@ Link do drive como projeto: [DRIVE](https://drive.google.com/drive/folders/1voiZ
 
 - [Cena 1](https://github.com/Isaquedias1/Cinematic-Soul/wiki/Cena-1)
 - [Cena 2](https://github.com/Isaquedias1/Cinematic-Soul/wiki/Cena-2)
+- [Cena 3](https://github.com/Isaquedias1/Cinematic-Soul/wiki/Cena-3)
+- [Cena 4](https://github.com/Isaquedias1/Cinematic-Soul/wiki/Cena-4)
+- [Cena 5](https://github.com/Isaquedias1/Cinematic-Soul/wiki/Cena-5)
 
 ![image](https://github.com/user-attachments/assets/bafdc6b1-0a5f-46ac-88a1-2662f29536cd)
 
